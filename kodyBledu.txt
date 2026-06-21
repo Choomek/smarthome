@@ -1,0 +1,14 @@
+0 - brak bledu
+1 - nieznana opcja przy wywolaniu programu
+2 - brak -l/-r przy wywolaniu programu
+3 - brak nazwy pokoju przy wywolaniu programu
+4 - blad otwarcia pliku
+5 - proba rejestracji pokoju ktory juz istnieje
+6 - blad usuwania pliku
+7 - blad przypisania pamieci dynamicznej
+8 - blad przypisania danych pokoju
+9 - proba logowania do nieistniejacego pokoju
+10 - blad przelacxzania sie po programie
+11 - blad orientacji mebla
+12 - blad wspolrzednych
+13 - kolizja mebli

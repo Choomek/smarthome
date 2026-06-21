@@ -1,0 +1,12 @@
+x : 6
+y : 4
+powierzchnia : 24
+temperatura grzejnika : 32.000000
+temperatura pokoju : 25.806452
+swiatla : 1
+rolety : 1
+okna : 0
+szafa :
+Kurtka
+Torba
+Gitara
